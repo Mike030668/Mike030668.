@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on [text-2-video with rotation matrix](https://github.com/Mike030668/Rotation_T2I_to_T2V)
 
 - 🌱 I’m currently learning **magistratura MIPT - https://mipt.online/masters/data_science**
+  
+- You can see currently learning here - **https://github.com/Mike030668/MIPT_magistratura**
 
 - 👯 I’m looking to collaborate on [text-2-video with rotation matrix](https://github.com/Mike030668/Rotation_T2I_to_T2V)
 
